@@ -1,0 +1,23 @@
+faiss-cpu
+langchain==0.2.0
+langchain-core
+langchain-community
+langchain-openai
+python-dotenv
+fastapi
+jinja2
+python-multipart
+uvicorn
+pdfminer
+unstructured== 0.13.7
+pdf2image
+pillow_heif
+opencv-python
+unstructured_inference
+pytesseract
+pikepdf
+unstructured_pytesseract
+accelerate
+transformers
+evaluate
+torch
